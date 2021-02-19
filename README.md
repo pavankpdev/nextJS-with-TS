@@ -1,1 +1,1 @@
-This is a [Next.js](https://nextjs.org/) project, with Typescript. Using this to learn Next.js. 
+This is a [Next.js](https://nextjs.org/) project, with Typescript. I'm using this to learn Next.js. 
