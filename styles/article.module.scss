@@ -1,0 +1,12 @@
+.articlePost {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  & > div {
+    width: 300px;
+    & > img {
+      width: 100%;
+    }
+  }
+}
